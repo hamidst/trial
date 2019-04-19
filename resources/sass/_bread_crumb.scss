@@ -1,0 +1,16 @@
+.breadcrumb{
+  background-color: $white;
+  border-bottom: 1px solid $silver;
+  box-shadow:2px 2px 2px $silver;
+
+  .container{
+    li{
+      a:link{
+        color: $silver !important;
+        font-size: 14px;
+      }
+    }
+  }
+
+
+}

@@ -1,0 +1,14 @@
+.navbar{
+  padding: 0px;
+  background-color: $header_color ;
+
+  .navbar-nav{
+    a:link{color: $white;}
+  }
+}
+
+.navbar-brand{
+  padding: 0px;
+
+  img{height: 60px;}
+}

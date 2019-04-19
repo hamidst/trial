@@ -1,0 +1,19 @@
+.circle{
+  width:30px;
+  height:30px;
+  display: inline-block;
+  line-height: 30px;
+  border-radius: 50%;
+  border:1px solid #ccc;
+  text-align: center;
+  font-size: 14px;
+  font-weight:bold;
+  color: $white;
+}
+.match_result{
+  margin-top:20px;
+}
+h5{margin: 10px 0px 20px 0px;}
+.win{background-color: $green;}
+.lost{background-color: $red;}
+.drawn{background-color:$silver;}
